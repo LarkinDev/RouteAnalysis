@@ -1,0 +1,15 @@
+C:\Users\mihai\Source\Repos\RouteAnalysis\bin\Debug\net6.0\RouteAnalysis.exe
+C:\Users\mihai\Source\Repos\RouteAnalysis\bin\Debug\net6.0\RouteAnalysis.deps.json
+C:\Users\mihai\Source\Repos\RouteAnalysis\bin\Debug\net6.0\RouteAnalysis.runtimeconfig.json
+C:\Users\mihai\Source\Repos\RouteAnalysis\bin\Debug\net6.0\RouteAnalysis.dll
+C:\Users\mihai\Source\Repos\RouteAnalysis\bin\Debug\net6.0\RouteAnalysis.pdb
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\RouteAnalysis.csproj.AssemblyReference.cache
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\RouteAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\RouteAnalysis.AssemblyInfoInputs.cache
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\RouteAnalysis.AssemblyInfo.cs
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\RouteAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\RouteAnalysis.dll
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\refint\RouteAnalysis.dll
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\RouteAnalysis.pdb
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\RouteAnalysis.genruntimeconfig.cache
+C:\Users\mihai\Source\Repos\RouteAnalysis\obj\Debug\net6.0\ref\RouteAnalysis.dll
